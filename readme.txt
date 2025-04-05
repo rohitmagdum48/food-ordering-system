@@ -1,6 +1,3 @@
-Free Download Source Code "Online Food Ordering System"
-
-FIRST Download
 
 1.XAMPP
 
@@ -23,11 +20,8 @@ FIRST Download
 7.Run the script http://localhost/Online_Food_Ordering_System
 
 
-**LOGIN DETAILS** 
+LOGIN DETAILS
 
 Admin
 user: admin
 pass: admin123
-
-****** www.campcodes.com ******
-Subcribe to our Youtube Channel **** CampCodes ****
